@@ -1,0 +1,25 @@
+{
+  "name": "react-test-renderer-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcisbee/react-test-renderer-snapshot.git"
+  },
+  "author": "Marcis <marcisbergmanis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marcisbee/react-test-renderer-snapshot/issues"
+  },
+  "homepage": "https://github.com/Marcisbee/react-test-renderer-snapshot#readme",
+  "dependencies": {
+    "@types/react-test-renderer": "^17.0.1"
+  },
+  "devDependencies": {
+    "react-test-renderer": "^17.0.1"
+  }
+}
